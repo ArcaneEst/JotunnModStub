@@ -58,6 +58,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GatheringSkill.cs" />
+    <Compile Include="HuntingSkill.cs" />
     <Compile Include="Properties\IgnoreAccessModifiers.cs" />
     <Compile Include="SkillsProject.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
